@@ -1,0 +1,1 @@
+{"data":{"allSite":{"edges":[{"node":{"siteMetadata":{"sidebarConfig":{"forcedNavOrder":["/"],"ignoreIndex":false}}}}]},"allMdx":{"edges":[{"node":{"fields":{"slug":"/","title":"Document by Code Bushi"}}},{"node":{"fields":{"slug":"/hello-world","title":"Hello World"}}},{"node":{"fields":{"slug":"/測試","title":"測試"}}}]}}}
